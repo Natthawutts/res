@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: rgba(142, 164, 238, 0.123);
-}
+
 
 .wrapper{
     min-height: 100vh;
